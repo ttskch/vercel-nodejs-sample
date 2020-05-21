@@ -1,0 +1,6 @@
+{
+  "license": "MIT",
+  "dependencies": {
+    "@octokit/rest": "^17.9.2"
+  }
+}
